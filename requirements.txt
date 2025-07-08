@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.3
+tensorly>=0.8.1
+matplotlib>=3.7
+seaborn>=0.12
+PyQt5>=5.15
